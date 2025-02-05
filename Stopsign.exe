@@ -1,0 +1,18 @@
+using System;
+using static System.Console;
+using System.Globalization;
+class StopSign
+{
+    static void Main()
+    {
+        // 3 Spaces and one padding for the x-border and "STOP" inside
+      WriteLine("   XXXXXX");
+      WriteLine(" X        X");
+      WriteLine("X   STOP   X");
+      WriteLine(" X        X");
+      WriteLine("   XXXXXX");
+      WriteLine("      X");
+      WriteLine("      X");
+      WriteLine("      X");
+}
+Killall Terminal
